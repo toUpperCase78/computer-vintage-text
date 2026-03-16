@@ -1,0 +1,39 @@
+# All texts which will be inserted to the image are defined here.
+# Start with '#' to toggle line comment.
+# Add '\n' to start a new line inside the text.
+# After text, start the next line with '>' to indicate the parameters specific to the text, with the exact order like below:
+# > <red_value> <green_value> <blue_value> <x_pos> <y_pos> <font_size> <draw_bg>
+# To separate texts from each other and to indicate the end, use four dashes '----' 
+ABCDEFGHIJKLMN\nOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n0123456789\n?!&%#/\()[]{}|$@+-<=>*^~_.,:;'"`
+> 160 255 0 25 25 5 0
+----
+The quick brown fox jumps over the lazy dog.
+> 0 0 255 20 365 2 1
+----
+The quick brown fox jumps over the lazy dog.
+> 0 255 0 23 400 3 1
+----
+The quick brown fox jumps over the lazy dog.
+> 255 0 0 26 450 4 1
+----
+The quick brown fox jumps over the lazy dog.
+> 255 255 0 29 515 5 1
+----
+The quick brown fox jumps over the lazy dog.
+> 0 255 255 32 595 6 1
+----
+The quick brown fox jumps over the lazy dog.
+> 255 0 255 35 690 7 1
+----
+The quick brown fox jumps over the lazy dog.
+> 255 255 255 38 800 8 1
+----
+# Computer\nVintage\nText
+# > 255 170 0 330 150 5 0
+# ----
+# Going back to the\n90s...
+# > 200 200 200 300 90 4 0
+# ----
+# When you see this image,\ndid you feel the old vibes?
+# > 20 255 0 605 220 2 0
+# ----
